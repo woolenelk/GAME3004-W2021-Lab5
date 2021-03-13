@@ -316,6 +316,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HealthBar-WorldSpace
       objectReference: {fileID: 0}
+    - target: {fileID: 4019587647239200155, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 4019587647567324321, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -323,6 +327,22 @@ PrefabInstance:
     - target: {fileID: 4019587647567324321, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4019587647567324326, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4019587647997572805, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4019587648055275929, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
+      propertyPath: m_Layer
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4019587648678757398, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
+      propertyPath: m_Layer
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 76997ea9a8333e34d818745a405522b3, type: 3}
